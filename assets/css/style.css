@@ -9,17 +9,6 @@ html {
     font-family: "Open Sans", sans-serif;
 }
 
-/* NavBar */
-.bg-custom {
-    background-color: #359caa;
-}
-
-/* Carousel */
-/* .carousel-item {
-    height: 50rem;
-}
- */
-
 /*  ¿Quiénes somos? */
 .fa-solid {
     width: 100%;
@@ -32,7 +21,6 @@ html {
 }
 
 /* Destacados */
-
 .card-img-top {
     height: 12rem;
 }
@@ -42,14 +30,12 @@ html {
 }
 
 /* Formulario de contacto */
-
 .form {
     padding-left: 5rem;
     padding-right: 5rem;
 }
 
 /* Pie de página / links a redes sociales  */
-
 .footer {
     padding-left: 10rem;
     font-size: 1.6rem;
