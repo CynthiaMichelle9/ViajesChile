@@ -1,10 +1,11 @@
-body, body * {
+body,
+body * {
     padding: 0;
     margin: 0;
     border: 0;
 }
 
-body {
+html {
     font-family: "Open Sans", sans-serif;
 }
 
@@ -14,6 +15,13 @@ body {
 }
 
 /* Carousel */
-.carousel-item {
+/* .carousel-item {
     height: 50rem;
+}
+ */
+
+/*  ¿Quiénes somos? */
+.fa-solid {
+    width: 100%;
+    justify-content: center;
 }
