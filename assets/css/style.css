@@ -1,0 +1,19 @@
+body, body * {
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+
+body {
+    font-family: "Open Sans", sans-serif;
+}
+
+/* NavBar */
+.bg-custom {
+    background-color: #359caa;
+}
+
+/* Carousel */
+.carousel-item {
+    height: 50rem;
+}
